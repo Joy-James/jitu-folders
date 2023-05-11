@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+}
+body{
+   width: 100%;
+   align-items: center;
+}
+form{
+    margin: 50px 0;
+    text-align: center;
+    
+
+}
+h4{
+    color: orangered;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+   
+.form-container{
+    background-color: grey;
+    width: 350px;
+    text-align: left;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+
+}
+.form-container label{
+    display: block;
+    font-size: 14px;
+}
+.form-container input{
+    width: 80%;
+    padding: 10px 10px;
+  border-radius: 8px;
+    outline: none;
+    border: none;
+    margin-bottom: 10px;
+}
+#check{
+    display: block;
+   width: fit-content;
+}
+#check_label{
+    display: inline !important; 
+    margin-bottom: 10px;
+}
+.form-container button{
+    display: block;
+    text-align: center;
+    color: white;
+    background-color: orangered;
+    width: 100%;
+    border-radius: 50px;
+    padding: 10px 0;
+    border: none;
+    margin-top: 10px;
+
+}
+.link-container{
+    background-color: white;
+    width: 100%;
+    padding: 30px 10px;
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    border-bottom: 3px solid orangered;
+}
+.link-container *{
+    color: orangered;
+    text-decoration: none;
+
+}
+#new{
+    margin-right: 40px;
+   
+
+}
+#forgot{
+    margin-left: 30px;
+   
+}

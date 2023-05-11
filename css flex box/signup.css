@@ -1,0 +1,61 @@
+/*body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    max-width: 900px;
+}
+.side-panel{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+
+}
+
+.panel-item{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.panel-item h4{
+    
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 20px;
+    float: left;
+    border:  1px solid white;
+    margin-right: 10px;
+
+}
+.panel-item span{
+margin: 5px;
+color: white;
+}
+.active{
+    background-color: white;
+}
+
+.panel-item h6{
+    margin: 10px 0;
+}
+
+
+.signup{
+    background-color: white;
+}
+
+
+
+
+#btn{
+    background-color: gray;
+}*/
