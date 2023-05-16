@@ -53,7 +53,7 @@ const randomNumber = Math.floor(Math.random() * 10) + 1;
 const guess = parseInt(prompt("Guess a number between 1 and 10"));
 
 // Check if the guess matches the random number
-if (guess == randomNumber) {
+if (guess === randomNumber) {
   console.log("Good Work");
 } else {
   console.log("Not matched");
